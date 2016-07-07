@@ -24,6 +24,8 @@ urls:
       url: /feed.xml
       icon: fa-feed
       
+social:
+      
 
 enableTags: true
 tagarray: []
