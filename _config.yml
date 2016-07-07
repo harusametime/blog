@@ -18,7 +18,7 @@ urls:
       url: https://github.com/harusametime
       icon: fa-github
     - text: twitter
-      url: 'http://twitter.com/harusametime'
+      url: http://twitter.com/harusametime
       icon: fa-graduation-cap
     - text: XML Feed
       url: /feed.xml
@@ -28,7 +28,7 @@ urls:
 enableTags: true
 tagarray: []
 
-url: "http://harusametime.github.io
+url: "http://harusametime.github.io"
 baseurl: "/blog"
 paginate: 20
 per_page: 20
