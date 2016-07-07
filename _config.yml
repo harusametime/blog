@@ -21,7 +21,7 @@ urls:
       url: '#'
       icon: fa-graduation-cap
     - text: Github
-      url: https://github.com/ashutosh2k12
+      url: https://github.com/harusametime
       icon: fa-github
     - text: XML Feed
       url: /feed.xml
@@ -33,7 +33,7 @@ social:
     - icon: fa-skype
       link: '#'
     - icon: fa-twitter
-      link: '#'
+      link: 'harusametime'
     - icon: fa-linkedin
       link: '#'
     - icon: fa-stack-exchange
