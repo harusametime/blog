@@ -1,11 +1,11 @@
-title: John Smith
+title: Practice Makes Perfect
 description: My Personal Blog
-author: John Smith
+author: Masaki Samejima
 logo: http://aboutashu.com/hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/ashutosh2k12
-about: Freelance developer
-disqus_shortname: aboutashu
-google_analytics: UA-72862926-1
+github: https://github.com/harusametime
+about: 
+disqus_shortname: harusametime
+google_analytics: 
 urls:
     - text: Home
       url: /
@@ -47,8 +47,8 @@ share:
 enableTags: true
 tagarray: []
 
-url: "http://aboutashu.com/hcz-jekyll-blog"
-baseurl: "/hcz-jekyll-blog"
+url: "http://harusametime.github.io
+baseurl: "/blog"
 paginate: 20
 per_page: 20
 paginate_path: "/page:num/"
