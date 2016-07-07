@@ -19,7 +19,7 @@ urls:
       icon: fa-github
     - text: twitter
       url: http://twitter.com/harusametime
-      icon: fa-graduation-cap
+      icon: fa-twitter
     - text: XML Feed
       url: /feed.xml
       icon: fa-feed
